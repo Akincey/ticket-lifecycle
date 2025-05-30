@@ -44,7 +44,10 @@ In this step, I used the Support Center portal to submit a ticket from the end-u
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As referenced earlier, this screenshot shows me logged in as the agent I created. In this instance, I escalated the ticket titled "Business Critical Outage"—originally submitted under the help topic "Report a Problem"—to "Business Critical" due to the severity of the issue.
+
+The issue summary reads:
+"My employees are reporting that users are no longer able to access the online banking portal. Those who can access it intermittently are unable to log in."
 </p>
 <br />
 
