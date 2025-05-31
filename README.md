@@ -52,7 +52,6 @@ The issue summary reads:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
   
 ![image](https://github.com/user-attachments/assets/aeb4b419-3d03-4dff-b440-35aa38824f78)
 
